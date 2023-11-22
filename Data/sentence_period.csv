@@ -1,0 +1,1001 @@
+state_name,is_state,year,gender,sentence_period,age_16_18_years,age_18_30_years,age_30_50_years,age_50_above,Total
+"Andhra Pradesh",1,2001,Male,"Capital Punishment",0,0,0,0,0
+"Andhra Pradesh",1,2001,Male,"Life Imprisonment",0,631,1252,212,2095
+"Andhra Pradesh",1,2001,Male,"10-13 Plus years",0,74,80,10,164
+"Andhra Pradesh",1,2001,Male,"7-9 Plus years",0,87,85,8,180
+"Andhra Pradesh",1,2001,Male,"5-6 Plus years",0,113,108,27,248
+"Andhra Pradesh",1,2001,Male,"2-4 Plus years",3,135,112,19,269
+"Andhra Pradesh",1,2001,Male,"1 Less than 2 years",0,140,128,12,280
+"Andhra Pradesh",1,2001,Male,"6 months less than 1 Yr.",0,179,159,41,379
+"Andhra Pradesh",1,2001,Male,"3 - 6 months",2,165,84,42,293
+"Andhra Pradesh",1,2001,Male,"Less than 3 months",0,115,79,17,211
+"Andhra Pradesh",1,2002,Male,"Capital Punishment",0,0,1,0,1
+"Andhra Pradesh",1,2002,Male,"Life Imprisonment",0,922,1230,221,2373
+"Andhra Pradesh",1,2002,Male,"10-13 Plus years",0,49,107,28,184
+"Andhra Pradesh",1,2002,Male,"7-9 Plus years",0,80,111,41,232
+"Andhra Pradesh",1,2002,Male,"5-6 Plus years",0,111,125,29,265
+"Andhra Pradesh",1,2002,Male,"2-4 Plus years",0,195,120,33,348
+"Andhra Pradesh",1,2002,Male,"1 Less than 2 years",1,200,165,35,401
+"Andhra Pradesh",1,2002,Male,"6 months less than 1 Yr.",0,199,139,34,372
+"Andhra Pradesh",1,2002,Male,"3 - 6 months",2,122,182,6,312
+"Andhra Pradesh",1,2002,Male,"Less than 3 months",0,108,112,13,233
+"Andhra Pradesh",1,2003,Male,"Capital Punishment",0,0,0,0,0
+"Andhra Pradesh",1,2003,Male,"Life Imprisonment",0,914,1416,332,2662
+"Andhra Pradesh",1,2003,Male,"10-13 Plus years",0,40,76,15,131
+"Andhra Pradesh",1,2003,Male,"7-9 Plus years",0,89,112,33,234
+"Andhra Pradesh",1,2003,Male,"5-6 Plus years",0,111,135,35,281
+"Andhra Pradesh",1,2003,Male,"2-4 Plus years",0,167,144,47,358
+"Andhra Pradesh",1,2003,Male,"1 Less than 2 years",0,153,156,52,361
+"Andhra Pradesh",1,2003,Male,"6 months less than 1 Yr.",0,178,167,27,372
+"Andhra Pradesh",1,2003,Male,"3 - 6 months",0,160,118,26,304
+"Andhra Pradesh",1,2003,Male,"Less than 3 months",0,99,111,62,272
+"Andhra Pradesh",1,2004,Male,"Capital Punishment",0,0,0,0,0
+"Andhra Pradesh",1,2004,Male,"Life Imprisonment",0,953,1453,181,2587
+"Andhra Pradesh",1,2004,Male,"10-13 Plus years",0,49,68,15,132
+"Andhra Pradesh",1,2004,Male,"7-9 Plus years",0,81,94,24,199
+"Andhra Pradesh",1,2004,Male,"5-6 Plus years",0,99,93,36,228
+"Andhra Pradesh",1,2004,Male,"2-4 Plus years",0,135,108,50,293
+"Andhra Pradesh",1,2004,Male,"1 Less than 2 years",0,101,140,10,251
+"Andhra Pradesh",1,2004,Male,"6 months less than 1 Yr.",0,128,147,56,331
+"Andhra Pradesh",1,2004,Male,"3 - 6 months",0,96,134,32,262
+"Andhra Pradesh",1,2004,Male,"Less than 3 months",0,119,150,16,285
+"Andhra Pradesh",1,2005,Male,"Capital Punishment",0,0,0,0,0
+"Andhra Pradesh",1,2005,Male,"Life Imprisonment",0,861,1726,271,2858
+"Andhra Pradesh",1,2005,Male,"10-13 Plus years",0,42,73,18,133
+"Andhra Pradesh",1,2005,Male,"7-9 Plus years",0,102,149,11,262
+"Andhra Pradesh",1,2005,Male,"5-6 Plus years",1,99,170,19,289
+"Andhra Pradesh",1,2005,Male,"2-4 Plus years",1,111,159,25,296
+"Andhra Pradesh",1,2005,Male,"1 Less than 2 years",0,110,126,23,259
+"Andhra Pradesh",1,2005,Male,"6 months less than 1 Yr.",0,143,117,21,281
+"Andhra Pradesh",1,2005,Male,"3 - 6 months",0,118,98,11,227
+"Andhra Pradesh",1,2005,Male,"Less than 3 months",0,109,96,3,208
+"Andhra Pradesh",1,2006,Male,"Capital Punishment",0,0,0,0,0
+"Andhra Pradesh",1,2006,Male,"Life Imprisonment",0,794,1897,289,2980
+"Andhra Pradesh",1,2006,Male,"10-13 Plus years",0,65,154,29,248
+"Andhra Pradesh",1,2006,Male,"7-9 Plus years",0,68,162,20,250
+"Andhra Pradesh",1,2006,Male,"5-6 Plus years",0,102,146,22,270
+"Andhra Pradesh",1,2006,Male,"2-4 Plus years",0,121,143,35,299
+"Andhra Pradesh",1,2006,Male,"1 Less than 2 years",0,123,133,45,301
+"Andhra Pradesh",1,2006,Male,"6 months less than 1 Yr.",0,126,124,28,278
+"Andhra Pradesh",1,2006,Male,"3 - 6 months",0,120,90,34,244
+"Andhra Pradesh",1,2006,Male,"Less than 3 months",0,90,94,26,210
+"Andhra Pradesh",1,2007,Male,"Capital Punishment",0,0,0,0,0
+"Andhra Pradesh",1,2007,Male,"Life Imprisonment",0,979,1902,382,3263
+"Andhra Pradesh",1,2007,Male,"10-13 Plus years",0,53,60,12,125
+"Andhra Pradesh",1,2007,Male,"7-9 Plus years",0,78,105,30,213
+"Andhra Pradesh",1,2007,Male,"5-6 Plus years",0,79,63,27,169
+"Andhra Pradesh",1,2007,Male,"2-4 Plus years",0,184,172,46,402
+"Andhra Pradesh",1,2007,Male,"1 Less than 2 years",0,172,128,30,330
+"Andhra Pradesh",1,2007,Male,"6 months less than 1 Yr.",0,197,121,33,351
+"Andhra Pradesh",1,2007,Male,"3 - 6 months",0,157,131,22,310
+"Andhra Pradesh",1,2007,Male,"Less than 3 months",0,81,71,12,164
+"Andhra Pradesh",1,2008,Male,"Capital Punishment",0,0,0,0,0
+"Andhra Pradesh",1,2008,Male,"Life Imprisonment",0,1053,1942,440,3435
+"Andhra Pradesh",1,2008,Male,"10-13 Plus years",0,41,55,9,105
+"Andhra Pradesh",1,2008,Male,"7-9 Plus years",0,68,117,14,199
+"Andhra Pradesh",1,2008,Male,"5-6 Plus years",0,73,128,31,232
+"Andhra Pradesh",1,2008,Male,"2-4 Plus years",0,65,113,12,190
+"Andhra Pradesh",1,2008,Male,"1 Less than 2 years",0,129,131,21,281
+"Andhra Pradesh",1,2008,Male,"6 months less than 1 Yr.",0,133,114,17,264
+"Andhra Pradesh",1,2008,Male,"3 - 6 months",0,115,153,17,285
+"Andhra Pradesh",1,2008,Male,"Less than 3 months",0,85,70,9,164
+"Andhra Pradesh",1,2009,Male,"Capital Punishment",0,0,0,0,0
+"Andhra Pradesh",1,2009,Male,"Life Imprisonment",0,842,1526,226,2594
+"Andhra Pradesh",1,2009,Male,"10-13 Plus years",0,80,76,16,172
+"Andhra Pradesh",1,2009,Male,"7-9 Plus years",0,95,128,14,237
+"Andhra Pradesh",1,2009,Male,"5-6 Plus years",0,91,91,8,190
+"Andhra Pradesh",1,2009,Male,"2-4 Plus years",0,126,137,20,283
+"Andhra Pradesh",1,2009,Male,"1 Less than 2 years",0,128,123,19,270
+"Andhra Pradesh",1,2009,Male,"6 months less than 1 Yr.",0,114,115,15,244
+"Andhra Pradesh",1,2009,Male,"3 - 6 months",0,82,80,13,175
+"Andhra Pradesh",1,2009,Male,"Less than 3 months",0,84,84,6,174
+"Andhra Pradesh",1,2010,Male,"Capital Punishment",0,0,0,0,0
+"Andhra Pradesh",1,2010,Male,"Life Imprisonment",0,990,1593,230,2813
+"Andhra Pradesh",1,2010,Male,"10-13 Plus years",0,51,71,16,138
+"Andhra Pradesh",1,2010,Male,"7-9 Plus years",0,90,91,32,213
+"Andhra Pradesh",1,2010,Male,"5-6 Plus years",0,95,105,23,223
+"Andhra Pradesh",1,2010,Male,"2-4 Plus years",0,116,105,24,245
+"Andhra Pradesh",1,2010,Male,"1 Less than 2 years",0,140,119,22,281
+"Andhra Pradesh",1,2010,Male,"6 months less than 1 Yr.",0,136,119,13,268
+"Andhra Pradesh",1,2010,Male,"3 - 6 months",0,133,113,12,258
+"Andhra Pradesh",1,2010,Male,"Less than 3 months",0,69,53,6,128
+"Andhra Pradesh",1,2011,Male,"Capital Punishment",0,1,2,0,3
+"Andhra Pradesh",1,2011,Male,"Life Imprisonment",0,841,1585,421,2847
+"Andhra Pradesh",1,2011,Male,"10-13 Plus years",0,10,50,15,75
+"Andhra Pradesh",1,2011,Male,"7-9 Plus years",0,76,64,13,153
+"Andhra Pradesh",1,2011,Male,"5-6 Plus years",0,67,49,31,147
+"Andhra Pradesh",1,2011,Male,"2-4 Plus years",0,70,107,13,190
+"Andhra Pradesh",1,2011,Male,"1 Less than 2 years",0,96,91,41,228
+"Andhra Pradesh",1,2011,Male,"6 months less than 1 Yr.",0,106,70,51,227
+"Andhra Pradesh",1,2011,Male,"3 - 6 months",0,120,95,23,238
+"Andhra Pradesh",1,2011,Male,"Less than 3 months",0,89,157,23,269
+"Andhra Pradesh",1,2012,Male,"Capital Punishment",0,3,2,0,5
+"Andhra Pradesh",1,2012,Male,"Life Imprisonment",0,969,1738,408,3115
+"Andhra Pradesh",1,2012,Male,"10-13 Plus years",0,44,63,12,119
+"Andhra Pradesh",1,2012,Male,"7-9 Plus years",0,23,73,12,108
+"Andhra Pradesh",1,2012,Male,"5-6 Plus years",0,47,68,12,127
+"Andhra Pradesh",1,2012,Male,"2-4 Plus years",0,88,95,34,217
+"Andhra Pradesh",1,2012,Male,"1 Less than 2 years",0,87,86,26,199
+"Andhra Pradesh",1,2012,Male,"6 months less than 1 Yr.",0,104,86,22,212
+"Andhra Pradesh",1,2012,Male,"3 - 6 months",0,106,72,31,209
+"Andhra Pradesh",1,2012,Male,"Less than 3 months",0,55,57,14,126
+"Arunachal Pradesh",1,2009,Male,"Capital Punishment",0,0,0,0,0
+"Arunachal Pradesh",1,2009,Male,"Life Imprisonment",0,0,0,0,0
+"Arunachal Pradesh",1,2009,Male,"10-13 Plus years",0,0,0,0,0
+"Arunachal Pradesh",1,2009,Male,"7-9 Plus years",0,1,0,1,2
+"Arunachal Pradesh",1,2009,Male,"5-6 Plus years",0,0,0,0,0
+"Arunachal Pradesh",1,2009,Male,"2-4 Plus years",0,0,0,0,0
+"Arunachal Pradesh",1,2009,Male,"1 Less than 2 years",0,0,0,0,0
+"Arunachal Pradesh",1,2009,Male,"6 months less than 1 Yr.",0,0,0,0,0
+"Arunachal Pradesh",1,2009,Male,"3 - 6 months",0,0,0,0,0
+"Arunachal Pradesh",1,2009,Male,"Less than 3 months",0,0,0,0,0
+"Arunachal Pradesh",1,2010,Male,"Capital Punishment",0,0,0,0,0
+"Arunachal Pradesh",1,2010,Male,"Life Imprisonment",0,0,0,0,0
+"Arunachal Pradesh",1,2010,Male,"10-13 Plus years",0,0,0,0,0
+"Arunachal Pradesh",1,2010,Male,"7-9 Plus years",0,0,0,0,0
+"Arunachal Pradesh",1,2010,Male,"5-6 Plus years",0,0,0,0,0
+"Arunachal Pradesh",1,2010,Male,"2-4 Plus years",0,2,0,1,3
+"Arunachal Pradesh",1,2010,Male,"1 Less than 2 years",0,0,0,0,0
+"Arunachal Pradesh",1,2010,Male,"6 months less than 1 Yr.",0,2,0,0,2
+"Arunachal Pradesh",1,2010,Male,"3 - 6 months",0,0,0,0,0
+"Arunachal Pradesh",1,2010,Male,"Less than 3 months",0,0,0,0,0
+"Arunachal Pradesh",1,2011,Male,"Capital Punishment",0,0,0,0,0
+"Arunachal Pradesh",1,2011,Male,"Life Imprisonment",0,0,1,0,1
+"Arunachal Pradesh",1,2011,Male,"10-13 Plus years",0,0,0,0,0
+"Arunachal Pradesh",1,2011,Male,"7-9 Plus years",0,1,1,0,2
+"Arunachal Pradesh",1,2011,Male,"5-6 Plus years",0,0,0,0,0
+"Arunachal Pradesh",1,2011,Male,"2-4 Plus years",0,2,0,1,3
+"Arunachal Pradesh",1,2011,Male,"1 Less than 2 years",0,0,0,0,0
+"Arunachal Pradesh",1,2011,Male,"6 months less than 1 Yr.",0,0,0,0,0
+"Arunachal Pradesh",1,2011,Male,"3 - 6 months",0,0,0,0,0
+"Arunachal Pradesh",1,2011,Male,"Less than 3 months",0,0,0,0,0
+"Arunachal Pradesh",1,2012,Male,"Capital Punishment",0,0,0,0,0
+"Arunachal Pradesh",1,2012,Male,"Life Imprisonment",0,0,0,0,0
+"Arunachal Pradesh",1,2012,Male,"10-13 Plus years",0,2,1,0,3
+"Arunachal Pradesh",1,2012,Male,"7-9 Plus years",0,1,0,0,1
+"Arunachal Pradesh",1,2012,Male,"5-6 Plus years",0,0,0,0,0
+"Arunachal Pradesh",1,2012,Male,"2-4 Plus years",0,0,0,0,0
+"Arunachal Pradesh",1,2012,Male,"1 Less than 2 years",0,0,0,0,0
+"Arunachal Pradesh",1,2012,Male,"6 months less than 1 Yr.",0,0,0,0,0
+"Arunachal Pradesh",1,2012,Male,"3 - 6 months",0,0,0,0,0
+"Arunachal Pradesh",1,2012,Male,"Less than 3 months",0,0,0,0,0
+Assam,1,2001,Male,"Capital Punishment",0,1,0,0,1
+Assam,1,2001,Male,"Life Imprisonment",6,260,1077,171,1514
+Assam,1,2001,Male,"10-13 Plus years",0,52,68,18,138
+Assam,1,2001,Male,"7-9 Plus years",0,65,101,12,178
+Assam,1,2001,Male,"5-6 Plus years",2,54,92,14,162
+Assam,1,2001,Male,"2-4 Plus years",1,59,78,14,152
+Assam,1,2001,Male,"1 Less than 2 years",0,20,28,0,48
+Assam,1,2001,Male,"6 months less than 1 Yr.",0,22,27,3,52
+Assam,1,2001,Male,"3 - 6 months",0,13,31,2,46
+Assam,1,2001,Male,"Less than 3 months",0,12,35,18,65
+Assam,1,2002,Male,"Capital Punishment",0,1,3,0,4
+Assam,1,2002,Male,"Life Imprisonment",8,521,903,192,1624
+Assam,1,2002,Male,"10-13 Plus years",1,93,84,17,195
+Assam,1,2002,Male,"7-9 Plus years",0,55,94,16,165
+Assam,1,2002,Male,"5-6 Plus years",1,41,83,7,132
+Assam,1,2002,Male,"2-4 Plus years",2,47,59,15,123
+Assam,1,2002,Male,"1 Less than 2 years",8,35,42,3,88
+Assam,1,2002,Male,"6 months less than 1 Yr.",5,19,47,1,72
+Assam,1,2002,Male,"3 - 6 months",2,25,78,2,107
+Assam,1,2002,Male,"Less than 3 months",0,15,151,0,166
+Assam,1,2003,Male,"Capital Punishment",0,2,3,1,6
+Assam,1,2003,Male,"Life Imprisonment",6,471,1003,252,1732
+Assam,1,2003,Male,"10-13 Plus years",2,94,237,43,376
+Assam,1,2003,Male,"7-9 Plus years",1,78,167,19,265
+Assam,1,2003,Male,"5-6 Plus years",1,72,143,14,230
+Assam,1,2003,Male,"2-4 Plus years",0,63,108,13,184
+Assam,1,2003,Male,"1 Less than 2 years",2,35,42,8,87
+Assam,1,2003,Male,"6 months less than 1 Yr.",3,25,26,3,57
+Assam,1,2003,Male,"3 - 6 months",2,20,21,4,47
+Assam,1,2003,Male,"Less than 3 months",0,6,18,0,24
+Assam,1,2004,Male,"Capital Punishment",0,1,2,0,3
+Assam,1,2004,Male,"Life Imprisonment",0,506,1028,418,1952
+Assam,1,2004,Male,"10-13 Plus years",0,62,175,116,353
+Assam,1,2004,Male,"7-9 Plus years",0,79,135,71,285
+Assam,1,2004,Male,"5-6 Plus years",1,82,100,25,208
+Assam,1,2004,Male,"2-4 Plus years",0,52,77,20,149
+Assam,1,2004,Male,"1 Less than 2 years",1,26,44,16,87
+Assam,1,2004,Male,"6 months less than 1 Yr.",0,23,34,4,61
+Assam,1,2004,Male,"3 - 6 months",3,25,30,5,63
+Assam,1,2004,Male,"Less than 3 months",0,11,18,1,30
+Assam,1,2005,Male,"Capital Punishment",0,6,2,2,10
+Assam,1,2005,Male,"Life Imprisonment",0,543,1085,367,1995
+Assam,1,2005,Male,"10-13 Plus years",0,93,189,70,352
+Assam,1,2005,Male,"7-9 Plus years",4,120,194,29,347
+Assam,1,2005,Male,"5-6 Plus years",1,90,158,28,277
+Assam,1,2005,Male,"2-4 Plus years",0,59,84,14,157
+Assam,1,2005,Male,"1 Less than 2 years",1,28,64,4,97
+Assam,1,2005,Male,"6 months less than 1 Yr.",1,15,47,4,67
+Assam,1,2005,Male,"3 - 6 months",1,18,32,4,55
+Assam,1,2005,Male,"Less than 3 months",0,16,24,0,40
+Assam,1,2006,Male,"Capital Punishment",0,3,3,3,9
+Assam,1,2006,Male,"Life Imprisonment",0,696,1104,242,2042
+Assam,1,2006,Male,"10-13 Plus years",0,89,120,34,243
+Assam,1,2006,Male,"7-9 Plus years",0,126,169,62,357
+Assam,1,2006,Male,"5-6 Plus years",0,90,165,51,306
+Assam,1,2006,Male,"2-4 Plus years",0,73,120,35,228
+Assam,1,2006,Male,"1 Less than 2 years",0,59,57,13,129
+Assam,1,2006,Male,"6 months less than 1 Yr.",0,31,34,5,70
+Assam,1,2006,Male,"3 - 6 months",0,12,27,2,41
+Assam,1,2006,Male,"Less than 3 months",0,19,19,2,40
+Assam,1,2007,Male,"Capital Punishment",0,1,2,1,4
+Assam,1,2007,Male,"Life Imprisonment",0,667,1282,306,2255
+Assam,1,2007,Male,"10-13 Plus years",0,91,183,44,318
+Assam,1,2007,Male,"7-9 Plus years",0,117,129,26,272
+Assam,1,2007,Male,"5-6 Plus years",0,79,121,25,225
+Assam,1,2007,Male,"2-4 Plus years",0,73,77,15,165
+Assam,1,2007,Male,"1 Less than 2 years",0,45,45,5,95
+Assam,1,2007,Male,"6 months less than 1 Yr.",0,29,21,11,61
+Assam,1,2007,Male,"3 - 6 months",0,22,19,11,52
+Assam,1,2007,Male,"Less than 3 months",0,10,23,0,33
+Assam,1,2008,Male,"Capital Punishment",0,2,3,1,6
+Assam,1,2008,Male,"Life Imprisonment",0,562,1260,289,2111
+Assam,1,2008,Male,"10-13 Plus years",0,144,150,40,334
+Assam,1,2008,Male,"7-9 Plus years",0,219,152,52,423
+Assam,1,2008,Male,"5-6 Plus years",0,66,101,28,195
+Assam,1,2008,Male,"2-4 Plus years",0,64,85,17,166
+Assam,1,2008,Male,"1 Less than 2 years",0,19,39,6,64
+Assam,1,2008,Male,"6 months less than 1 Yr.",0,21,17,8,46
+Assam,1,2008,Male,"3 - 6 months",0,11,16,7,34
+Assam,1,2008,Male,"Less than 3 months",0,8,7,2,17
+Assam,1,2009,Male,"Capital Punishment",0,2,3,2,7
+Assam,1,2009,Male,"Life Imprisonment",0,468,1064,291,1823
+Assam,1,2009,Male,"10-13 Plus years",0,120,206,62,388
+Assam,1,2009,Male,"7-9 Plus years",0,209,156,72,437
+Assam,1,2009,Male,"5-6 Plus years",0,56,119,69,244
+Assam,1,2009,Male,"2-4 Plus years",0,42,64,18,124
+Assam,1,2009,Male,"1 Less than 2 years",0,32,36,6,74
+Assam,1,2009,Male,"6 months less than 1 Yr.",0,28,26,5,59
+Assam,1,2009,Male,"3 - 6 months",0,20,34,0,54
+Assam,1,2009,Male,"Less than 3 months",0,11,11,3,25
+Assam,1,2010,Male,"Capital Punishment",0,0,3,2,5
+Assam,1,2010,Male,"Life Imprisonment",0,405,1086,415,1906
+Assam,1,2010,Male,"10-13 Plus years",0,120,210,50,380
+Assam,1,2010,Male,"7-9 Plus years",0,130,150,49,329
+Assam,1,2010,Male,"5-6 Plus years",0,61,115,10,186
+Assam,1,2010,Male,"2-4 Plus years",0,30,49,6,85
+Assam,1,2010,Male,"1 Less than 2 years",0,30,46,6,82
+Assam,1,2010,Male,"6 months less than 1 Yr.",0,31,28,8,67
+Assam,1,2010,Male,"3 - 6 months",0,20,37,9,66
+Assam,1,2010,Male,"Less than 3 months",0,30,25,5,60
+Assam,1,2011,Male,"Capital Punishment",0,0,2,2,4
+Assam,1,2011,Male,"Life Imprisonment",0,365,1030,419,1814
+Assam,1,2011,Male,"10-13 Plus years",0,138,192,39,369
+Assam,1,2011,Male,"7-9 Plus years",0,132,145,38,315
+Assam,1,2011,Male,"5-6 Plus years",0,55,117,13,185
+Assam,1,2011,Male,"2-4 Plus years",0,32,46,7,85
+Assam,1,2011,Male,"1 Less than 2 years",0,31,43,5,79
+Assam,1,2011,Male,"6 months less than 1 Yr.",0,27,30,7,64
+Assam,1,2011,Male,"3 - 6 months",0,25,36,6,67
+Assam,1,2011,Male,"Less than 3 months",0,32,28,4,64
+Assam,1,2012,Male,"Capital Punishment",0,0,8,2,10
+Assam,1,2012,Male,"Life Imprisonment",0,395,1017,395,1807
+Assam,1,2012,Male,"10-13 Plus years",0,158,167,37,362
+Assam,1,2012,Male,"7-9 Plus years",0,145,141,39,325
+Assam,1,2012,Male,"5-6 Plus years",0,65,109,14,188
+Assam,1,2012,Male,"2-4 Plus years",0,34,47,8,89
+Assam,1,2012,Male,"1 Less than 2 years",0,30,45,6,81
+Assam,1,2012,Male,"6 months less than 1 Yr.",0,26,31,8,65
+Assam,1,2012,Male,"3 - 6 months",0,24,37,7,68
+Assam,1,2012,Male,"Less than 3 months",0,33,29,5,67
+Bihar,1,2001,Male,"Capital Punishment",1,2,0,0,3
+Bihar,1,2001,Male,"Life Imprisonment",1,385,1529,935,2850
+Bihar,1,2001,Male,"10-13 Plus years",0,0,95,181,276
+Bihar,1,2001,Male,"7-9 Plus years",0,132,140,120,392
+Bihar,1,2001,Male,"5-6 Plus years",0,132,136,35,303
+Bihar,1,2001,Male,"2-4 Plus years",2,85,120,34,241
+Bihar,1,2001,Male,"1 Less than 2 years",4,209,164,28,405
+Bihar,1,2001,Male,"6 months less than 1 Yr.",4,230,114,9,357
+Bihar,1,2001,Male,"3 - 6 months",0,34,65,5,104
+Bihar,1,2001,Male,"Less than 3 months",0,21,35,0,56
+Bihar,1,2002,Male,"Capital Punishment",0,8,21,27,56
+Bihar,1,2002,Male,"Life Imprisonment",0,372,1703,802,2877
+Bihar,1,2002,Male,"10-13 Plus years",0,114,193,130,437
+Bihar,1,2002,Male,"7-9 Plus years",0,57,125,98,280
+Bihar,1,2002,Male,"5-6 Plus years",0,83,66,58,207
+Bihar,1,2002,Male,"2-4 Plus years",0,37,74,46,157
+Bihar,1,2002,Male,"1 Less than 2 years",7,43,47,40,137
+Bihar,1,2002,Male,"6 months less than 1 Yr.",13,48,38,41,140
+Bihar,1,2002,Male,"3 - 6 months",8,250,53,43,354
+Bihar,1,2002,Male,"Less than 3 months",17,203,50,44,314
+Bihar,1,2003,Male,"Capital Punishment",0,24,32,8,64
+Bihar,1,2003,Male,"Life Imprisonment",0,480,1684,809,2973
+Bihar,1,2003,Male,"10-13 Plus years",0,160,424,106,690
+Bihar,1,2003,Male,"7-9 Plus years",0,58,183,93,334
+Bihar,1,2003,Male,"5-6 Plus years",0,65,78,45,188
+Bihar,1,2003,Male,"2-4 Plus years",0,41,86,58,185
+Bihar,1,2003,Male,"1 Less than 2 years",0,67,87,40,194
+Bihar,1,2003,Male,"6 months less than 1 Yr.",0,23,94,49,166
+Bihar,1,2003,Male,"3 - 6 months",0,29,65,9,103
+Bihar,1,2003,Male,"Less than 3 months",0,39,31,7,77
+Bihar,1,2004,Male,"Capital Punishment",0,14,60,13,87
+Bihar,1,2004,Male,"Life Imprisonment",0,432,2093,937,3462
+Bihar,1,2004,Male,"10-13 Plus years",0,121,297,159,577
+Bihar,1,2004,Male,"7-9 Plus years",0,70,146,57,273
+Bihar,1,2004,Male,"5-6 Plus years",0,78,92,32,202
+Bihar,1,2004,Male,"2-4 Plus years",0,49,83,17,149
+Bihar,1,2004,Male,"1 Less than 2 years",0,39,83,19,141
+Bihar,1,2004,Male,"6 months less than 1 Yr.",0,57,44,13,114
+Bihar,1,2004,Male,"3 - 6 months",0,84,60,35,179
+Bihar,1,2004,Male,"Less than 3 months",0,115,61,30,206
+Bihar,1,2005,Male,"Capital Punishment",0,14,39,4,57
+Bihar,1,2005,Male,"Life Imprisonment",0,952,1584,928,3464
+Bihar,1,2005,Male,"10-13 Plus years",0,178,278,138,594
+Bihar,1,2005,Male,"7-9 Plus years",0,70,167,69,306
+Bihar,1,2005,Male,"5-6 Plus years",0,182,179,42,403
+Bihar,1,2005,Male,"2-4 Plus years",0,13,202,71,286
+Bihar,1,2005,Male,"1 Less than 2 years",0,0,98,24,122
+Bihar,1,2005,Male,"6 months less than 1 Yr.",0,0,86,12,98
+Bihar,1,2005,Male,"3 - 6 months",0,0,62,16,78
+Bihar,1,2005,Male,"Less than 3 months",0,0,61,16,77
+Bihar,1,2006,Male,"Capital Punishment",0,42,11,10,63
+Bihar,1,2006,Male,"Life Imprisonment",0,2599,854,271,3724
+Bihar,1,2006,Male,"10-13 Plus years",0,473,193,88,754
+Bihar,1,2006,Male,"7-9 Plus years",0,417,106,76,599
+Bihar,1,2006,Male,"5-6 Plus years",0,346,84,70,500
+Bihar,1,2006,Male,"2-4 Plus years",0,215,72,35,322
+Bihar,1,2006,Male,"1 Less than 2 years",0,161,70,25,256
+Bihar,1,2006,Male,"6 months less than 1 Yr.",0,50,66,18,134
+Bihar,1,2006,Male,"3 - 6 months",0,63,63,18,144
+Bihar,1,2006,Male,"Less than 3 months",0,54,56,10,120
+Bihar,1,2007,Male,"Capital Punishment",0,14,53,12,79
+Bihar,1,2007,Male,"Life Imprisonment",0,1081,1706,423,3210
+Bihar,1,2007,Male,"10-13 Plus years",0,610,292,171,1073
+Bihar,1,2007,Male,"7-9 Plus years",0,206,258,63,527
+Bihar,1,2007,Male,"5-6 Plus years",0,154,200,58,412
+Bihar,1,2007,Male,"2-4 Plus years",0,125,107,35,267
+Bihar,1,2007,Male,"1 Less than 2 years",0,119,98,27,244
+Bihar,1,2007,Male,"6 months less than 1 Yr.",0,52,52,10,114
+Bihar,1,2007,Male,"3 - 6 months",0,50,43,6,99
+Bihar,1,2007,Male,"Less than 3 months",0,45,52,8,105
+Bihar,1,2008,Male,"Capital Punishment",0,16,28,11,55
+Bihar,1,2008,Male,"Life Imprisonment",0,852,1601,575,3028
+Bihar,1,2008,Male,"10-13 Plus years",0,637,300,190,1127
+Bihar,1,2008,Male,"7-9 Plus years",0,234,232,72,538
+Bihar,1,2008,Male,"5-6 Plus years",0,142,181,56,379
+Bihar,1,2008,Male,"2-4 Plus years",0,120,99,34,253
+Bihar,1,2008,Male,"1 Less than 2 years",0,50,103,32,185
+Bihar,1,2008,Male,"6 months less than 1 Yr.",0,47,56,21,124
+Bihar,1,2008,Male,"3 - 6 months",0,45,51,19,115
+Bihar,1,2008,Male,"Less than 3 months",0,0,47,17,64
+Bihar,1,2009,Male,"Capital Punishment",0,11,18,10,39
+Bihar,1,2009,Male,"Life Imprisonment",0,819,1513,513,2845
+Bihar,1,2009,Male,"10-13 Plus years",0,603,274,165,1042
+Bihar,1,2009,Male,"7-9 Plus years",0,223,215,60,498
+Bihar,1,2009,Male,"5-6 Plus years",0,137,163,41,341
+Bihar,1,2009,Male,"2-4 Plus years",0,109,79,32,220
+Bihar,1,2009,Male,"1 Less than 2 years",0,43,98,32,173
+Bihar,1,2009,Male,"6 months less than 1 Yr.",0,37,49,20,106
+Bihar,1,2009,Male,"3 - 6 months",0,37,41,21,99
+Bihar,1,2009,Male,"Less than 3 months",0,0,42,18,60
+Bihar,1,2010,Male,"Capital Punishment",0,7,15,9,31
+Bihar,1,2010,Male,"Life Imprisonment",0,749,1481,522,2752
+Bihar,1,2010,Male,"10-13 Plus years",0,559,249,166,974
+Bihar,1,2010,Male,"7-9 Plus years",0,206,199,55,460
+Bihar,1,2010,Male,"5-6 Plus years",0,129,147,41,317
+Bihar,1,2010,Male,"2-4 Plus years",0,102,80,33,215
+Bihar,1,2010,Male,"1 Less than 2 years",0,42,91,28,161
+Bihar,1,2010,Male,"6 months less than 1 Yr.",0,36,45,21,102
+Bihar,1,2010,Male,"3 - 6 months",0,31,43,23,97
+Bihar,1,2010,Male,"Less than 3 months",0,2,40,15,57
+Bihar,1,2011,Male,"Capital Punishment",0,5,27,5,37
+Bihar,1,2011,Male,"Life Imprisonment",0,787,1340,736,2863
+Bihar,1,2011,Male,"10-13 Plus years",0,157,164,86,407
+Bihar,1,2011,Male,"7-9 Plus years",0,95,134,65,294
+Bihar,1,2011,Male,"5-6 Plus years",0,75,91,42,208
+Bihar,1,2011,Male,"2-4 Plus years",0,89,106,32,227
+Bihar,1,2011,Male,"1 Less than 2 years",0,51,95,42,188
+Bihar,1,2011,Male,"6 months less than 1 Yr.",0,82,62,19,163
+Bihar,1,2011,Male,"3 - 6 months",0,27,27,12,66
+Bihar,1,2011,Male,"Less than 3 months",0,19,29,7,55
+Bihar,1,2012,Male,"Capital Punishment",0,5,29,8,42
+Bihar,1,2012,Male,"Life Imprisonment",0,566,1327,611,2504
+Bihar,1,2012,Male,"10-13 Plus years",0,167,188,78,433
+Bihar,1,2012,Male,"7-9 Plus years",0,88,127,67,282
+Bihar,1,2012,Male,"5-6 Plus years",0,58,108,46,212
+Bihar,1,2012,Male,"2-4 Plus years",0,71,111,42,224
+Bihar,1,2012,Male,"1 Less than 2 years",0,50,68,28,146
+Bihar,1,2012,Male,"6 months less than 1 Yr.",0,38,42,7,87
+Bihar,1,2012,Male,"3 - 6 months",0,14,14,0,28
+Bihar,1,2012,Male,"Less than 3 months",0,31,17,0,48
+Chhattisgarh,1,2012,Male,"Capital Punishment",0,0,1,0,1
+Chhattisgarh,1,2012,Male,"Life Imprisonment",0,1536,1781,666,3983
+Chhattisgarh,1,2012,Male,"10-13 Plus years",0,287,198,74,559
+Chhattisgarh,1,2012,Male,"7-9 Plus years",0,243,176,63,482
+Chhattisgarh,1,2012,Male,"5-6 Plus years",0,122,86,19,227
+Chhattisgarh,1,2012,Male,"2-4 Plus years",0,88,86,15,189
+Chhattisgarh,1,2012,Male,"1 Less than 2 years",0,68,33,10,111
+Chhattisgarh,1,2012,Male,"6 months less than 1 Yr.",0,52,31,9,92
+Chhattisgarh,1,2012,Male,"3 - 6 months",0,40,8,8,56
+Chhattisgarh,1,2012,Male,"Less than 3 months",0,8,10,2,20
+Chhattisgarh,1,2001,Male,"Capital Punishment",0,0,1,0,1
+Chhattisgarh,1,2001,Male,"Life Imprisonment",4,1273,1271,393,2941
+Chhattisgarh,1,2001,Male,"10-13 Plus years",1,161,128,24,314
+Chhattisgarh,1,2001,Male,"7-9 Plus years",1,93,90,19,203
+Chhattisgarh,1,2001,Male,"5-6 Plus years",0,137,114,23,274
+Chhattisgarh,1,2001,Male,"2-4 Plus years",12,96,134,15,257
+Chhattisgarh,1,2001,Male,"1 Less than 2 years",0,66,81,22,169
+Chhattisgarh,1,2001,Male,"6 months less than 1 Yr.",3,67,65,28,163
+Chhattisgarh,1,2001,Male,"3 - 6 months",2,86,52,4,144
+Chhattisgarh,1,2001,Male,"Less than 3 months",6,31,37,8,82
+Chhattisgarh,1,2002,Male,"Capital Punishment",0,1,4,0,5
+Chhattisgarh,1,2002,Male,"Life Imprisonment",9,1440,1606,231,3286
+Chhattisgarh,1,2002,Male,"10-13 Plus years",15,145,107,46,313
+Chhattisgarh,1,2002,Male,"7-9 Plus years",22,184,176,48,430
+Chhattisgarh,1,2002,Male,"5-6 Plus years",4,97,84,15,200
+Chhattisgarh,1,2002,Male,"2-4 Plus years",3,72,49,6,130
+Chhattisgarh,1,2002,Male,"1 Less than 2 years",6,43,54,7,110
+Chhattisgarh,1,2002,Male,"6 months less than 1 Yr.",5,73,56,4,138
+Chhattisgarh,1,2002,Male,"3 - 6 months",12,42,44,7,105
+Chhattisgarh,1,2002,Male,"Less than 3 months",9,59,41,8,117
+Chhattisgarh,1,2003,Male,"Capital Punishment",0,0,1,0,1
+Chhattisgarh,1,2003,Male,"Life Imprisonment",8,992,1419,246,2665
+Chhattisgarh,1,2003,Male,"10-13 Plus years",3,182,371,46,602
+Chhattisgarh,1,2003,Male,"7-9 Plus years",2,160,241,38,441
+Chhattisgarh,1,2003,Male,"5-6 Plus years",0,80,116,14,210
+Chhattisgarh,1,2003,Male,"2-4 Plus years",7,55,86,16,164
+Chhattisgarh,1,2003,Male,"1 Less than 2 years",3,51,70,4,128
+Chhattisgarh,1,2003,Male,"6 months less than 1 Yr.",0,41,54,14,109
+Chhattisgarh,1,2003,Male,"3 - 6 months",0,57,39,6,102
+Chhattisgarh,1,2003,Male,"Less than 3 months",4,41,50,4,99
+Chhattisgarh,1,2004,Male,"Capital Punishment",0,0,0,0,0
+Chhattisgarh,1,2004,Male,"Life Imprisonment",0,947,1699,354,3000
+Chhattisgarh,1,2004,Male,"10-13 Plus years",0,121,235,83,439
+Chhattisgarh,1,2004,Male,"7-9 Plus years",0,87,168,31,286
+Chhattisgarh,1,2004,Male,"5-6 Plus years",0,50,122,16,188
+Chhattisgarh,1,2004,Male,"2-4 Plus years",0,44,72,1,117
+Chhattisgarh,1,2004,Male,"1 Less than 2 years",0,30,38,9,77
+Chhattisgarh,1,2004,Male,"6 months less than 1 Yr.",0,49,39,1,89
+Chhattisgarh,1,2004,Male,"3 - 6 months",0,38,36,1,75
+Chhattisgarh,1,2004,Male,"Less than 3 months",0,21,28,0,49
+Chhattisgarh,1,2005,Male,"Capital Punishment",0,0,0,0,0
+Chhattisgarh,1,2005,Male,"Life Imprisonment",0,782,1801,342,2925
+Chhattisgarh,1,2005,Male,"10-13 Plus years",0,194,133,28,355
+Chhattisgarh,1,2005,Male,"7-9 Plus years",0,144,114,19,277
+Chhattisgarh,1,2005,Male,"5-6 Plus years",0,74,72,25,171
+Chhattisgarh,1,2005,Male,"2-4 Plus years",0,72,44,13,129
+Chhattisgarh,1,2005,Male,"1 Less than 2 years",0,40,40,1,81
+Chhattisgarh,1,2005,Male,"6 months less than 1 Yr.",0,41,43,2,86
+Chhattisgarh,1,2005,Male,"3 - 6 months",0,23,26,4,53
+Chhattisgarh,1,2005,Male,"Less than 3 months",0,19,12,0,31
+Chhattisgarh,1,2006,Male,"Capital Punishment",0,1,0,0,1
+Chhattisgarh,1,2006,Male,"Life Imprisonment",0,796,1722,243,2761
+Chhattisgarh,1,2006,Male,"10-13 Plus years",0,128,191,56,375
+Chhattisgarh,1,2006,Male,"7-9 Plus years",0,104,184,24,312
+Chhattisgarh,1,2006,Male,"5-6 Plus years",0,68,109,18,195
+Chhattisgarh,1,2006,Male,"2-4 Plus years",0,65,64,17,146
+Chhattisgarh,1,2006,Male,"1 Less than 2 years",0,57,63,7,127
+Chhattisgarh,1,2006,Male,"6 months less than 1 Yr.",0,44,51,3,98
+Chhattisgarh,1,2006,Male,"3 - 6 months",0,30,19,4,53
+Chhattisgarh,1,2006,Male,"Less than 3 months",0,8,9,2,19
+Chhattisgarh,1,2007,Male,"Capital Punishment",0,3,2,0,5
+Chhattisgarh,1,2007,Male,"Life Imprisonment",0,930,1794,228,2952
+Chhattisgarh,1,2007,Male,"10-13 Plus years",0,161,202,26,389
+Chhattisgarh,1,2007,Male,"7-9 Plus years",0,140,184,23,347
+Chhattisgarh,1,2007,Male,"5-6 Plus years",0,102,112,13,227
+Chhattisgarh,1,2007,Male,"2-4 Plus years",0,76,53,8,137
+Chhattisgarh,1,2007,Male,"1 Less than 2 years",0,46,41,10,97
+Chhattisgarh,1,2007,Male,"6 months less than 1 Yr.",0,46,35,3,84
+Chhattisgarh,1,2007,Male,"3 - 6 months",0,31,17,4,52
+Chhattisgarh,1,2007,Male,"Less than 3 months",0,10,14,3,27
+Chhattisgarh,1,2008,Male,"Capital Punishment",0,4,2,0,6
+Chhattisgarh,1,2008,Male,"Life Imprisonment",0,1017,1576,311,2904
+Chhattisgarh,1,2008,Male,"10-13 Plus years",0,190,202,58,450
+Chhattisgarh,1,2008,Male,"7-9 Plus years",0,190,163,40,393
+Chhattisgarh,1,2008,Male,"5-6 Plus years",0,145,105,23,273
+Chhattisgarh,1,2008,Male,"2-4 Plus years",0,87,58,13,158
+Chhattisgarh,1,2008,Male,"1 Less than 2 years",0,84,76,7,167
+Chhattisgarh,1,2008,Male,"6 months less than 1 Yr.",0,47,30,3,80
+Chhattisgarh,1,2008,Male,"3 - 6 months",0,50,26,4,80
+Chhattisgarh,1,2008,Male,"Less than 3 months",0,29,28,5,62
+Chhattisgarh,1,2009,Male,"Capital Punishment",0,0,9,0,9
+Chhattisgarh,1,2009,Male,"Life Imprisonment",0,967,1710,471,3148
+Chhattisgarh,1,2009,Male,"10-13 Plus years",0,190,260,44,494
+Chhattisgarh,1,2009,Male,"7-9 Plus years",0,179,177,19,375
+Chhattisgarh,1,2009,Male,"5-6 Plus years",0,91,98,16,205
+Chhattisgarh,1,2009,Male,"2-4 Plus years",0,97,56,8,161
+Chhattisgarh,1,2009,Male,"1 Less than 2 years",0,63,41,9,113
+Chhattisgarh,1,2009,Male,"6 months less than 1 Yr.",0,44,25,1,70
+Chhattisgarh,1,2009,Male,"3 - 6 months",0,22,12,2,36
+Chhattisgarh,1,2009,Male,"Less than 3 months",0,14,13,2,29
+Chhattisgarh,1,2010,Male,"Capital Punishment",0,1,4,0,5
+Chhattisgarh,1,2010,Male,"Life Imprisonment",0,1153,1579,505,3237
+Chhattisgarh,1,2010,Male,"10-13 Plus years",0,262,302,106,670
+Chhattisgarh,1,2010,Male,"7-9 Plus years",0,174,181,68,423
+Chhattisgarh,1,2010,Male,"5-6 Plus years",0,88,91,37,216
+Chhattisgarh,1,2010,Male,"2-4 Plus years",0,80,63,27,170
+Chhattisgarh,1,2010,Male,"1 Less than 2 years",0,62,50,21,133
+Chhattisgarh,1,2010,Male,"6 months less than 1 Yr.",0,24,24,16,64
+Chhattisgarh,1,2010,Male,"3 - 6 months",0,21,11,11,43
+Chhattisgarh,1,2010,Male,"Less than 3 months",0,10,9,7,26
+Chhattisgarh,1,2011,Male,"Capital Punishment",0,0,5,0,5
+Chhattisgarh,1,2011,Male,"Life Imprisonment",0,1241,1904,629,3774
+Chhattisgarh,1,2011,Male,"10-13 Plus years",0,234,232,73,539
+Chhattisgarh,1,2011,Male,"7-9 Plus years",0,212,199,66,477
+Chhattisgarh,1,2011,Male,"5-6 Plus years",0,90,60,31,181
+Chhattisgarh,1,2011,Male,"2-4 Plus years",0,65,57,29,151
+Chhattisgarh,1,2011,Male,"1 Less than 2 years",0,45,35,20,100
+Chhattisgarh,1,2011,Male,"6 months less than 1 Yr.",0,32,28,14,74
+Chhattisgarh,1,2011,Male,"3 - 6 months",0,29,12,11,52
+Chhattisgarh,1,2011,Male,"Less than 3 months",0,18,9,8,35
+Goa,1,2001,Male,"Capital Punishment",0,0,0,0,0
+Goa,1,2001,Male,"Life Imprisonment",0,13,37,2,52
+Goa,1,2001,Male,"10-13 Plus years",0,16,26,1,43
+Goa,1,2001,Male,"7-9 Plus years",0,13,6,2,21
+Goa,1,2001,Male,"5-6 Plus years",0,5,3,1,9
+Goa,1,2001,Male,"2-4 Plus years",0,7,4,1,12
+Goa,1,2001,Male,"1 Less than 2 years",0,0,2,0,2
+Goa,1,2001,Male,"6 months less than 1 Yr.",0,0,1,0,1
+Goa,1,2001,Male,"3 - 6 months",0,3,3,2,8
+Goa,1,2001,Male,"Less than 3 months",0,4,2,0,6
+Goa,1,2002,Male,"Capital Punishment",0,0,0,0,0
+Goa,1,2002,Male,"Life Imprisonment",0,26,17,10,53
+Goa,1,2002,Male,"10-13 Plus years",0,0,27,6,33
+Goa,1,2002,Male,"7-9 Plus years",0,0,22,0,22
+Goa,1,2002,Male,"5-6 Plus years",0,4,20,0,24
+Goa,1,2002,Male,"2-4 Plus years",0,0,0,0,0
+Goa,1,2002,Male,"1 Less than 2 years",0,2,3,1,6
+Goa,1,2002,Male,"6 months less than 1 Yr.",0,4,2,0,6
+Goa,1,2002,Male,"3 - 6 months",0,0,0,1,1
+Goa,1,2002,Male,"Less than 3 months",0,0,0,0,0
+Goa,1,2003,Male,"Capital Punishment",0,0,0,0,0
+Goa,1,2003,Male,"Life Imprisonment",0,21,16,15,52
+Goa,1,2003,Male,"10-13 Plus years",0,15,18,0,33
+Goa,1,2003,Male,"7-9 Plus years",0,6,14,0,20
+Goa,1,2003,Male,"5-6 Plus years",0,6,15,0,21
+Goa,1,2003,Male,"2-4 Plus years",0,4,5,0,9
+Goa,1,2003,Male,"1 Less than 2 years",0,1,4,0,5
+Goa,1,2003,Male,"6 months less than 1 Yr.",0,0,0,0,0
+Goa,1,2003,Male,"3 - 6 months",0,0,0,0,0
+Goa,1,2003,Male,"Less than 3 months",0,0,0,0,0
+Goa,1,2004,Male,"Capital Punishment",0,0,0,0,0
+Goa,1,2004,Male,"Life Imprisonment",0,18,26,7,51
+Goa,1,2004,Male,"10-13 Plus years",0,21,6,0,27
+Goa,1,2004,Male,"7-9 Plus years",0,10,9,0,19
+Goa,1,2004,Male,"5-6 Plus years",0,6,0,0,6
+Goa,1,2004,Male,"2-4 Plus years",0,30,0,0,30
+Goa,1,2004,Male,"1 Less than 2 years",0,2,2,0,4
+Goa,1,2004,Male,"6 months less than 1 Yr.",0,0,10,1,11
+Goa,1,2004,Male,"3 - 6 months",0,0,0,0,0
+Goa,1,2004,Male,"Less than 3 months",0,0,0,0,0
+Goa,1,2005,Male,"Capital Punishment",0,0,1,0,1
+Goa,1,2005,Male,"Life Imprisonment",0,4,37,7,48
+Goa,1,2005,Male,"10-13 Plus years",0,5,34,0,39
+Goa,1,2005,Male,"7-9 Plus years",0,2,23,0,25
+Goa,1,2005,Male,"5-6 Plus years",0,4,5,0,9
+Goa,1,2005,Male,"2-4 Plus years",0,4,5,1,10
+Goa,1,2005,Male,"1 Less than 2 years",0,0,0,0,0
+Goa,1,2005,Male,"6 months less than 1 Yr.",0,0,1,0,1
+Goa,1,2005,Male,"3 - 6 months",0,0,0,1,1
+Goa,1,2005,Male,"Less than 3 months",0,0,1,0,1
+Goa,1,2006,Male,"Capital Punishment",0,0,0,0,0
+Goa,1,2006,Male,"Life Imprisonment",0,20,21,7,48
+Goa,1,2006,Male,"10-13 Plus years",0,16,17,1,34
+Goa,1,2006,Male,"7-9 Plus years",0,9,12,0,21
+Goa,1,2006,Male,"5-6 Plus years",0,5,10,0,15
+Goa,1,2006,Male,"2-4 Plus years",0,3,7,0,10
+Goa,1,2006,Male,"1 Less than 2 years",0,0,0,0,0
+Goa,1,2006,Male,"6 months less than 1 Yr.",0,2,2,0,4
+Goa,1,2006,Male,"3 - 6 months",0,4,4,0,8
+Goa,1,2006,Male,"Less than 3 months",0,2,0,0,2
+Goa,1,2007,Male,"Capital Punishment",0,1,0,0,1
+Goa,1,2007,Male,"Life Imprisonment",0,17,22,6,45
+Goa,1,2007,Male,"10-13 Plus years",0,10,21,7,38
+Goa,1,2007,Male,"7-9 Plus years",0,4,9,3,16
+Goa,1,2007,Male,"5-6 Plus years",0,6,13,8,27
+Goa,1,2007,Male,"2-4 Plus years",0,1,4,0,5
+Goa,1,2007,Male,"1 Less than 2 years",0,1,3,3,7
+Goa,1,2007,Male,"6 months less than 1 Yr.",0,0,0,0,0
+Goa,1,2007,Male,"3 - 6 months",0,4,0,2,6
+Goa,1,2007,Male,"Less than 3 months",0,0,0,0,0
+Goa,1,2008,Male,"Capital Punishment",0,1,0,0,1
+Goa,1,2008,Male,"Life Imprisonment",0,37,20,7,64
+Goa,1,2008,Male,"10-13 Plus years",0,24,15,5,44
+Goa,1,2008,Male,"7-9 Plus years",0,4,2,0,6
+Goa,1,2008,Male,"5-6 Plus years",0,0,4,0,4
+Goa,1,2008,Male,"2-4 Plus years",0,7,7,0,14
+Goa,1,2008,Male,"1 Less than 2 years",0,0,4,0,4
+Goa,1,2008,Male,"6 months less than 1 Yr.",0,0,2,0,2
+Goa,1,2008,Male,"3 - 6 months",0,0,2,0,2
+Goa,1,2008,Male,"Less than 3 months",0,0,0,0,0
+Goa,1,2009,Male,"Capital Punishment",0,1,0,0,1
+Goa,1,2009,Male,"Life Imprisonment",0,30,30,6,66
+Goa,1,2009,Male,"10-13 Plus years",0,26,27,6,59
+Goa,1,2009,Male,"7-9 Plus years",0,14,0,0,14
+Goa,1,2009,Male,"5-6 Plus years",0,0,0,0,0
+Goa,1,2009,Male,"2-4 Plus years",0,15,3,0,18
+Goa,1,2009,Male,"1 Less than 2 years",0,0,2,0,2
+Goa,1,2009,Male,"6 months less than 1 Yr.",0,1,10,0,11
+Goa,1,2009,Male,"3 - 6 months",0,10,0,0,10
+Goa,1,2009,Male,"Less than 3 months",0,0,0,0,0
+Goa,1,2010,Male,"Capital Punishment",0,0,1,0,1
+Goa,1,2010,Male,"Life Imprisonment",0,31,34,7,72
+Goa,1,2010,Male,"10-13 Plus years",0,30,25,2,57
+Goa,1,2010,Male,"7-9 Plus years",0,2,7,0,9
+Goa,1,2010,Male,"5-6 Plus years",0,5,0,0,5
+Goa,1,2010,Male,"2-4 Plus years",0,7,2,0,9
+Goa,1,2010,Male,"1 Less than 2 years",0,1,0,0,1
+Goa,1,2010,Male,"6 months less than 1 Yr.",0,7,2,1,10
+Goa,1,2010,Male,"3 - 6 months",0,4,1,0,5
+Goa,1,2010,Male,"Less than 3 months",0,0,0,0,0
+Goa,1,2011,Male,"Capital Punishment",0,0,1,0,1
+Goa,1,2011,Male,"Life Imprisonment",0,27,35,9,71
+Goa,1,2011,Male,"10-13 Plus years",0,18,21,3,42
+Goa,1,2011,Male,"7-9 Plus years",0,4,1,0,5
+Goa,1,2011,Male,"5-6 Plus years",0,0,0,0,0
+Goa,1,2011,Male,"2-4 Plus years",0,3,0,0,3
+Goa,1,2011,Male,"1 Less than 2 years",0,4,4,0,8
+Goa,1,2011,Male,"6 months less than 1 Yr.",0,3,2,0,5
+Goa,1,2011,Male,"3 - 6 months",0,2,1,0,3
+Goa,1,2011,Male,"Less than 3 months",0,0,0,0,0
+Goa,1,2012,Male,"Capital Punishment",0,0,0,0,0
+Goa,1,2012,Male,"Life Imprisonment",0,23,34,8,65
+Goa,1,2012,Male,"10-13 Plus years",0,12,20,3,35
+Goa,1,2012,Male,"7-9 Plus years",0,2,6,0,8
+Goa,1,2012,Male,"5-6 Plus years",0,3,2,0,5
+Goa,1,2012,Male,"2-4 Plus years",0,4,4,0,8
+Goa,1,2012,Male,"1 Less than 2 years",0,5,0,0,5
+Goa,1,2012,Male,"6 months less than 1 Yr.",0,2,0,0,2
+Goa,1,2012,Male,"3 - 6 months",0,3,0,0,3
+Goa,1,2012,Male,"Less than 3 months",0,1,0,0,1
+Gujarat,1,2001,Male,"Capital Punishment",0,0,1,0,1
+Gujarat,1,2001,Male,"Life Imprisonment",0,482,1127,63,1672
+Gujarat,1,2001,Male,"10-13 Plus years",0,196,140,0,336
+Gujarat,1,2001,Male,"7-9 Plus years",0,93,74,20,187
+Gujarat,1,2001,Male,"5-6 Plus years",0,67,61,2,130
+Gujarat,1,2001,Male,"2-4 Plus years",0,46,40,2,88
+Gujarat,1,2001,Male,"1 Less than 2 years",0,95,32,5,132
+Gujarat,1,2001,Male,"6 months less than 1 Yr.",0,86,36,0,122
+Gujarat,1,2001,Male,"3 - 6 months",0,55,13,0,68
+Gujarat,1,2001,Male,"Less than 3 months",0,122,0,0,122
+Gujarat,1,2002,Male,"Capital Punishment",0,0,0,0,0
+Gujarat,1,2002,Male,"Life Imprisonment",0,891,1003,123,2017
+Gujarat,1,2002,Male,"10-13 Plus years",0,136,259,40,435
+Gujarat,1,2002,Male,"7-9 Plus years",0,42,30,6,78
+Gujarat,1,2002,Male,"5-6 Plus years",0,70,64,3,137
+Gujarat,1,2002,Male,"2-4 Plus years",0,40,71,8,119
+Gujarat,1,2002,Male,"1 Less than 2 years",0,33,50,7,90
+Gujarat,1,2002,Male,"6 months less than 1 Yr.",0,29,85,5,119
+Gujarat,1,2002,Male,"3 - 6 months",0,87,54,3,144
+Gujarat,1,2002,Male,"Less than 3 months",0,23,30,2,55
+Gujarat,1,2003,Male,"Capital Punishment",0,4,1,0,5
+Gujarat,1,2003,Male,"Life Imprisonment",8,831,875,203,1917
+Gujarat,1,2003,Male,"10-13 Plus years",0,160,296,64,520
+Gujarat,1,2003,Male,"7-9 Plus years",0,108,90,16,214
+Gujarat,1,2003,Male,"5-6 Plus years",1,42,28,23,94
+Gujarat,1,2003,Male,"2-4 Plus years",0,22,48,31,101
+Gujarat,1,2003,Male,"1 Less than 2 years",0,55,30,18,103
+Gujarat,1,2003,Male,"6 months less than 1 Yr.",0,62,52,16,130
+Gujarat,1,2003,Male,"3 - 6 months",0,44,59,9,112
+Gujarat,1,2003,Male,"Less than 3 months",0,37,57,21,115
+Gujarat,1,2004,Male,"Capital Punishment",0,5,13,0,18
+Gujarat,1,2004,Male,"Life Imprisonment",3,544,696,198,1441
+Gujarat,1,2004,Male,"10-13 Plus years",0,344,388,153,885
+Gujarat,1,2004,Male,"7-9 Plus years",0,119,347,74,540
+Gujarat,1,2004,Male,"5-6 Plus years",0,86,181,43,310
+Gujarat,1,2004,Male,"2-4 Plus years",0,62,85,14,161
+Gujarat,1,2004,Male,"1 Less than 2 years",0,26,31,9,66
+Gujarat,1,2004,Male,"6 months less than 1 Yr.",0,31,32,19,82
+Gujarat,1,2004,Male,"3 - 6 months",0,44,52,9,105
+Gujarat,1,2004,Male,"Less than 3 months",0,82,36,13,131
+Gujarat,1,2005,Male,"Capital Punishment",0,4,13,1,18
+Gujarat,1,2005,Male,"Life Imprisonment",0,814,1579,162,2555
+Gujarat,1,2005,Male,"10-13 Plus years",0,242,139,82,463
+Gujarat,1,2005,Male,"7-9 Plus years",0,247,72,48,367
+Gujarat,1,2005,Male,"5-6 Plus years",0,132,201,17,350
+Gujarat,1,2005,Male,"2-4 Plus years",0,60,45,20,125
+Gujarat,1,2005,Male,"1 Less than 2 years",0,79,77,12,168
+Gujarat,1,2005,Male,"6 months less than 1 Yr.",0,13,33,8,54
+Gujarat,1,2005,Male,"3 - 6 months",0,42,38,5,85
+Gujarat,1,2005,Male,"Less than 3 months",0,80,28,5,113
+Gujarat,1,2006,Male,"Capital Punishment",0,3,8,0,11
+Gujarat,1,2006,Male,"Life Imprisonment",0,957,1525,238,2720
+Gujarat,1,2006,Male,"10-13 Plus years",0,224,189,98,511
+Gujarat,1,2006,Male,"7-9 Plus years",0,195,166,60,421
+Gujarat,1,2006,Male,"5-6 Plus years",0,146,170,28,344
+Gujarat,1,2006,Male,"2-4 Plus years",0,100,150,37,287
+Gujarat,1,2006,Male,"1 Less than 2 years",0,63,49,23,135
+Gujarat,1,2006,Male,"6 months less than 1 Yr.",0,46,67,13,126
+Gujarat,1,2006,Male,"3 - 6 months",0,88,51,7,146
+Gujarat,1,2006,Male,"Less than 3 months",0,109,54,4,167
+Gujarat,1,2007,Male,"Capital Punishment",0,0,0,0,0
+Gujarat,1,2007,Male,"Life Imprisonment",0,1423,963,243,2629
+Gujarat,1,2007,Male,"10-13 Plus years",0,207,169,131,507
+Gujarat,1,2007,Male,"7-9 Plus years",0,252,248,85,585
+Gujarat,1,2007,Male,"5-6 Plus years",0,104,164,41,309
+Gujarat,1,2007,Male,"2-4 Plus years",0,76,92,52,220
+Gujarat,1,2007,Male,"1 Less than 2 years",0,111,78,16,205
+Gujarat,1,2007,Male,"6 months less than 1 Yr.",0,88,77,3,168
+Gujarat,1,2007,Male,"3 - 6 months",0,71,59,2,132
+Gujarat,1,2007,Male,"Less than 3 months",0,62,54,5,121
+Gujarat,1,2008,Male,"Capital Punishment",0,0,0,0,0
+Gujarat,1,2008,Male,"Life Imprisonment",0,921,986,363,2270
+Gujarat,1,2008,Male,"10-13 Plus years",0,285,373,69,727
+Gujarat,1,2008,Male,"7-9 Plus years",0,133,289,56,478
+Gujarat,1,2008,Male,"5-6 Plus years",0,234,228,46,508
+Gujarat,1,2008,Male,"2-4 Plus years",0,79,119,15,213
+Gujarat,1,2008,Male,"1 Less than 2 years",0,98,123,37,258
+Gujarat,1,2008,Male,"6 months less than 1 Yr.",0,65,45,7,117
+Gujarat,1,2008,Male,"3 - 6 months",0,29,32,5,66
+Gujarat,1,2008,Male,"Less than 3 months",0,32,49,1,82
+Gujarat,1,2009,Male,"Capital Punishment",0,6,0,1,7
+Gujarat,1,2009,Male,"Life Imprisonment",0,788,797,113,1698
+Gujarat,1,2009,Male,"10-13 Plus years",0,294,294,54,642
+Gujarat,1,2009,Male,"7-9 Plus years",0,275,228,53,556
+Gujarat,1,2009,Male,"5-6 Plus years",0,216,165,30,411
+Gujarat,1,2009,Male,"2-4 Plus years",0,155,174,11,340
+Gujarat,1,2009,Male,"1 Less than 2 years",0,98,112,12,222
+Gujarat,1,2009,Male,"6 months less than 1 Yr.",0,35,69,13,117
+Gujarat,1,2009,Male,"3 - 6 months",0,22,61,7,90
+Gujarat,1,2009,Male,"Less than 3 months",0,19,54,40,113
+Gujarat,1,2010,Male,"Capital Punishment",0,6,0,1,7
+Gujarat,1,2010,Male,"Life Imprisonment",0,724,918,151,1793
+Gujarat,1,2010,Male,"10-13 Plus years",0,347,304,121,772
+Gujarat,1,2010,Male,"7-9 Plus years",0,303,224,36,563
+Gujarat,1,2010,Male,"5-6 Plus years",0,179,138,38,355
+Gujarat,1,2010,Male,"2-4 Plus years",0,126,117,18,261
+Gujarat,1,2010,Male,"1 Less than 2 years",0,103,68,13,184
+Gujarat,1,2010,Male,"6 months less than 1 Yr.",0,49,47,6,102
+Gujarat,1,2010,Male,"3 - 6 months",0,31,50,8,89
+Gujarat,1,2010,Male,"Less than 3 months",0,14,28,15,57
+Gujarat,1,2011,Male,"Capital Punishment",0,3,16,1,20
+Gujarat,1,2011,Male,"Life Imprisonment",0,670,932,137,1739
+Gujarat,1,2011,Male,"10-13 Plus years",0,368,294,109,771
+Gujarat,1,2011,Male,"7-9 Plus years",0,389,258,44,691
+Gujarat,1,2011,Male,"5-6 Plus years",0,170,186,16,372
+Gujarat,1,2011,Male,"2-4 Plus years",0,77,128,11,216
+Gujarat,1,2011,Male,"1 Less than 2 years",0,80,98,20,198
+Gujarat,1,2011,Male,"6 months less than 1 Yr.",0,68,107,20,195
+Gujarat,1,2011,Male,"3 - 6 months",0,45,60,4,109
+Gujarat,1,2011,Male,"Less than 3 months",0,3,12,2,17
+Gujarat,1,2012,Male,"Capital Punishment",0,0,17,2,19
+Gujarat,1,2012,Male,"Life Imprisonment",0,384,1120,334,1838
+Gujarat,1,2012,Male,"10-13 Plus years",0,210,316,144,670
+Gujarat,1,2012,Male,"7-9 Plus years",0,232,199,67,498
+Gujarat,1,2012,Male,"5-6 Plus years",0,142,185,24,351
+Gujarat,1,2012,Male,"2-4 Plus years",0,94,181,21,296
+Gujarat,1,2012,Male,"1 Less than 2 years",0,63,112,10,185
+Gujarat,1,2012,Male,"6 months less than 1 Yr.",0,100,138,16,254
+Gujarat,1,2012,Male,"3 - 6 months",0,55,61,8,124
+Gujarat,1,2012,Male,"Less than 3 months",0,9,19,6,34
+Haryana,1,2001,Male,"Capital Punishment",0,0,6,1,7
+Haryana,1,2001,Male,"Life Imprisonment",0,647,773,320,1740
+Haryana,1,2001,Male,"10-13 Plus years",0,251,264,56,571
+Haryana,1,2001,Male,"7-9 Plus years",0,90,87,24,201
+Haryana,1,2001,Male,"5-6 Plus years",0,41,38,12,91
+Haryana,1,2001,Male,"2-4 Plus years",0,54,47,11,112
+Haryana,1,2001,Male,"1 Less than 2 years",0,36,38,9,83
+Haryana,1,2001,Male,"6 months less than 1 Yr.",0,27,35,8,70
+Haryana,1,2001,Male,"3 - 6 months",0,20,25,9,54
+Haryana,1,2001,Male,"Less than 3 months",0,22,17,16,55
+Haryana,1,2002,Male,"Capital Punishment",0,3,1,0,4
+Haryana,1,2002,Male,"Life Imprisonment",3,834,885,274,1996
+Haryana,1,2002,Male,"10-13 Plus years",0,263,220,112,595
+Haryana,1,2002,Male,"7-9 Plus years",2,120,106,37,265
+Haryana,1,2002,Male,"5-6 Plus years",0,82,69,23,174
+Haryana,1,2002,Male,"2-4 Plus years",0,90,61,29,180
+Haryana,1,2002,Male,"1 Less than 2 years",0,53,33,17,103
+Haryana,1,2002,Male,"6 months less than 1 Yr.",0,52,34,22,108
+Haryana,1,2002,Male,"3 - 6 months",0,14,25,9,48
+Haryana,1,2002,Male,"Less than 3 months",0,7,19,4,30
+Haryana,1,2003,Male,"Capital Punishment",0,0,0,0,0
+Haryana,1,2003,Male,"Life Imprisonment",0,819,1068,345,2232
+Haryana,1,2003,Male,"10-13 Plus years",0,215,336,123,674
+Haryana,1,2003,Male,"7-9 Plus years",0,160,182,55,397
+Haryana,1,2003,Male,"5-6 Plus years",0,131,128,82,341
+Haryana,1,2003,Male,"2-4 Plus years",0,88,73,40,201
+Haryana,1,2003,Male,"1 Less than 2 years",0,78,58,25,161
+Haryana,1,2003,Male,"6 months less than 1 Yr.",0,40,35,19,94
+Haryana,1,2003,Male,"3 - 6 months",0,44,27,21,92
+Haryana,1,2003,Male,"Less than 3 months",0,27,44,13,84
+Haryana,1,2004,Male,"Capital Punishment",0,1,1,0,2
+Haryana,1,2004,Male,"Life Imprisonment",0,796,1107,366,2269
+Haryana,1,2004,Male,"10-13 Plus years",0,343,305,137,785
+Haryana,1,2004,Male,"7-9 Plus years",0,162,156,83,401
+Haryana,1,2004,Male,"5-6 Plus years",0,140,113,28,281
+Haryana,1,2004,Male,"2-4 Plus years",0,151,99,15,265
+Haryana,1,2004,Male,"1 Less than 2 years",0,87,83,0,170
+Haryana,1,2004,Male,"6 months less than 1 Yr.",0,57,24,0,81
+Haryana,1,2004,Male,"3 - 6 months",0,36,20,0,56
+Haryana,1,2004,Male,"Less than 3 months",0,55,46,0,101
+Haryana,1,2005,Male,"Capital Punishment",0,1,2,0,3
+Haryana,1,2005,Male,"Life Imprisonment",0,608,1036,178,1822
+Haryana,1,2005,Male,"10-13 Plus years",4,527,373,100,1004
+Haryana,1,2005,Male,"7-9 Plus years",4,327,162,54,547
+Haryana,1,2005,Male,"5-6 Plus years",0,136,103,56,295
+Haryana,1,2005,Male,"2-4 Plus years",0,153,122,38,313
+Haryana,1,2005,Male,"1 Less than 2 years",0,126,76,43,245
+Haryana,1,2005,Male,"6 months less than 1 Yr.",0,71,39,40,150
+Haryana,1,2005,Male,"3 - 6 months",0,48,41,27,116
+Haryana,1,2005,Male,"Less than 3 months",0,56,37,17,110
+Haryana,1,2006,Male,"Capital Punishment",0,0,0,0,0
+Haryana,1,2006,Male,"Life Imprisonment",0,732,1085,522,2339
+Haryana,1,2006,Male,"10-13 Plus years",0,277,426,150,853
+Haryana,1,2006,Male,"7-9 Plus years",0,158,257,75,490
+Haryana,1,2006,Male,"5-6 Plus years",0,144,142,49,335
+Haryana,1,2006,Male,"2-4 Plus years",0,81,107,21,209
+Haryana,1,2006,Male,"1 Less than 2 years",0,54,67,12,133
+Haryana,1,2006,Male,"6 months less than 1 Yr.",0,47,87,19,153
+Haryana,1,2006,Male,"3 - 6 months",0,37,52,13,102
+Haryana,1,2006,Male,"Less than 3 months",0,103,59,12,174
+Haryana,1,2007,Male,"Capital Punishment",0,0,0,0,0
+Haryana,1,2007,Male,"Life Imprisonment",0,732,1002,460,2194
+Haryana,1,2007,Male,"10-13 Plus years",0,277,425,147,849
+Haryana,1,2007,Male,"7-9 Plus years",0,158,257,72,487
+Haryana,1,2007,Male,"5-6 Plus years",0,144,147,51,342
+Haryana,1,2007,Male,"2-4 Plus years",0,131,107,23,261
+Haryana,1,2007,Male,"1 Less than 2 years",0,104,47,14,165
+Haryana,1,2007,Male,"6 months less than 1 Yr.",0,87,60,16,163
+Haryana,1,2007,Male,"3 - 6 months",0,75,52,13,140
+Haryana,1,2007,Male,"Less than 3 months",0,103,59,12,174
+Haryana,1,2008,Male,"Capital Punishment",0,0,2,0,2
+Haryana,1,2008,Male,"Life Imprisonment",0,894,1264,419,2577
+Haryana,1,2008,Male,"10-13 Plus years",0,304,510,154,968
+Haryana,1,2008,Male,"7-9 Plus years",0,225,223,92,540
+Haryana,1,2008,Male,"5-6 Plus years",0,106,200,34,340
+Haryana,1,2008,Male,"2-4 Plus years",0,115,119,25,259
+Haryana,1,2008,Male,"1 Less than 2 years",0,65,79,22,166
+Haryana,1,2008,Male,"6 months less than 1 Yr.",0,41,66,14,121
+Haryana,1,2008,Male,"3 - 6 months",0,34,46,7,87
+Haryana,1,2008,Male,"Less than 3 months",0,30,38,4,72
+Haryana,1,2009,Male,"Capital Punishment",0,1,5,0,6
+Haryana,1,2009,Male,"Life Imprisonment",0,955,1270,396,2621
+Haryana,1,2009,Male,"10-13 Plus years",0,397,549,251,1197
+Haryana,1,2009,Male,"7-9 Plus years",0,294,241,66,601
+Haryana,1,2009,Male,"5-6 Plus years",0,163,151,49,363
+Haryana,1,2009,Male,"2-4 Plus years",0,138,113,26,277
+Haryana,1,2009,Male,"1 Less than 2 years",0,64,44,18,126
+Haryana,1,2009,Male,"6 months less than 1 Yr.",0,40,40,20,100
+Haryana,1,2009,Male,"3 - 6 months",0,35,65,16,116
+Haryana,1,2009,Male,"Less than 3 months",0,51,57,13,121
+Haryana,1,2010,Male,"Capital Punishment",0,0,5,0,5
+Haryana,1,2010,Male,"Life Imprisonment",0,1244,1046,333,2623
+Haryana,1,2010,Male,"10-13 Plus years",0,481,433,142,1056
+Haryana,1,2010,Male,"7-9 Plus years",0,379,297,86,762
+Haryana,1,2010,Male,"5-6 Plus years",0,216,200,48,464
+Haryana,1,2010,Male,"2-4 Plus years",0,175,158,76,409
+Haryana,1,2010,Male,"1 Less than 2 years",0,98,89,35,222
+Haryana,1,2010,Male,"6 months less than 1 Yr.",0,48,55,26,129
+Haryana,1,2010,Male,"3 - 6 months",0,24,80,17,121
+Haryana,1,2010,Male,"Less than 3 months",0,0,163,12,175
+Haryana,1,2011,Male,"Capital Punishment",0,1,8,0,9
+Haryana,1,2011,Male,"Life Imprisonment",0,1290,1328,401,3019
+Haryana,1,2011,Male,"10-13 Plus years",0,483,520,140,1143
+Haryana,1,2011,Male,"7-9 Plus years",0,414,341,81,836
+Haryana,1,2011,Male,"5-6 Plus years",0,190,210,50,450
+Haryana,1,2011,Male,"2-4 Plus years",0,157,176,70,403
+Haryana,1,2011,Male,"1 Less than 2 years",0,64,97,29,190
+Haryana,1,2011,Male,"6 months less than 1 Yr.",0,22,45,15,82
+Haryana,1,2011,Male,"3 - 6 months",0,24,23,3,50
+Haryana,1,2011,Male,"Less than 3 months",0,33,25,4,62
+Haryana,1,2012,Male,"Capital Punishment",0,1,4,0,5
+Haryana,1,2012,Male,"Life Imprisonment",0,1236,1429,360,3025
+Haryana,1,2012,Male,"10-13 Plus years",0,479,525,172,1176
+Haryana,1,2012,Male,"7-9 Plus years",0,403,337,85,825
+Haryana,1,2012,Male,"5-6 Plus years",0,167,192,46,405
+Haryana,1,2012,Male,"2-4 Plus years",0,159,178,62,399
+Haryana,1,2012,Male,"1 Less than 2 years",0,72,101,24,197
+Haryana,1,2012,Male,"6 months less than 1 Yr.",0,35,62,23,120
+Haryana,1,2012,Male,"3 - 6 months",0,28,77,11,116
+Haryana,1,2012,Male,"Less than 3 months",0,59,75,9,143
+"Himachal Pradesh",1,2001,Male,"Capital Punishment",0,0,0,0,0
+"Himachal Pradesh",1,2001,Male,"Life Imprisonment",0,38,28,16,82
+"Himachal Pradesh",1,2001,Male,"10-13 Plus years",0,45,55,11,111
+"Himachal Pradesh",1,2001,Male,"7-9 Plus years",7,25,25,14,71
+"Himachal Pradesh",1,2001,Male,"5-6 Plus years",0,8,20,13,41
+"Himachal Pradesh",1,2001,Male,"2-4 Plus years",0,5,15,4,24
+"Himachal Pradesh",1,2001,Male,"1 Less than 2 years",0,3,14,3,20
+"Himachal Pradesh",1,2001,Male,"6 months less than 1 Yr.",0,2,21,4,27
+"Himachal Pradesh",1,2001,Male,"3 - 6 months",0,2,5,1,8
+"Himachal Pradesh",1,2001,Male,"Less than 3 months",0,0,0,0,0
+"Himachal Pradesh",1,2002,Male,"Capital Punishment",0,0,0,0,0
+"Himachal Pradesh",1,2002,Male,"Life Imprisonment",0,61,106,14,181
+"Himachal Pradesh",1,2002,Male,"10-13 Plus years",0,41,68,6,115
+"Himachal Pradesh",1,2002,Male,"7-9 Plus years",0,14,6,7,27
+"Himachal Pradesh",1,2002,Male,"5-6 Plus years",0,8,5,1,14
+"Himachal Pradesh",1,2002,Male,"2-4 Plus years",0,8,13,0,21
+"Himachal Pradesh",1,2002,Male,"1 Less than 2 years",0,14,9,11,34
+"Himachal Pradesh",1,2002,Male,"6 months less than 1 Yr.",0,10,8,1,19
+"Himachal Pradesh",1,2002,Male,"3 - 6 months",0,0,0,1,1
+"Himachal Pradesh",1,2002,Male,"Less than 3 months",0,0,0,0,0
+"Himachal Pradesh",1,2003,Male,"Capital Punishment",0,0,0,0,0
+"Himachal Pradesh",1,2003,Male,"Life Imprisonment",0,28,85,32,145
+"Himachal Pradesh",1,2003,Male,"10-13 Plus years",0,83,79,0,162
+"Himachal Pradesh",1,2003,Male,"7-9 Plus years",0,1,9,0,10
+"Himachal Pradesh",1,2003,Male,"5-6 Plus years",2,11,16,1,30
+"Himachal Pradesh",1,2003,Male,"2-4 Plus years",1,38,41,2,82
+"Himachal Pradesh",1,2003,Male,"1 Less than 2 years",0,16,19,0,35
+"Himachal Pradesh",1,2003,Male,"6 months less than 1 Yr.",0,0,0,0,0
+"Himachal Pradesh",1,2003,Male,"3 - 6 months",0,0,0,0,0
+"Himachal Pradesh",1,2003,Male,"Less than 3 months",0,0,0,0,0
+"Himachal Pradesh",1,2004,Male,"Capital Punishment",0,0,0,0,0
+"Himachal Pradesh",1,2004,Male,"Life Imprisonment",0,62,121,37,220
+"Himachal Pradesh",1,2004,Male,"10-13 Plus years",0,77,91,12,180
+"Himachal Pradesh",1,2004,Male,"7-9 Plus years",0,14,18,2,34
+"Himachal Pradesh",1,2004,Male,"5-6 Plus years",0,20,10,0,30
+"Himachal Pradesh",1,2004,Male,"2-4 Plus years",0,12,24,2,38
+"Himachal Pradesh",1,2004,Male,"1 Less than 2 years",0,11,6,1,18
+"Himachal Pradesh",1,2004,Male,"6 months less than 1 Yr.",0,7,1,0,8
+"Himachal Pradesh",1,2004,Male,"3 - 6 months",0,6,3,0,9
+"Himachal Pradesh",1,2004,Male,"Less than 3 months",0,0,3,0,3
+"Himachal Pradesh",1,2005,Male,"Capital Punishment",0,0,0,0,0
+"Himachal Pradesh",1,2005,Male,"Life Imprisonment",0,61,132,52,245
+"Himachal Pradesh",1,2005,Male,"10-13 Plus years",0,99,110,13,222
+"Himachal Pradesh",1,2005,Male,"7-9 Plus years",0,26,23,4,53
+"Himachal Pradesh",1,2005,Male,"5-6 Plus years",0,12,9,4,25
+"Himachal Pradesh",1,2005,Male,"2-4 Plus years",0,11,16,3,30
+"Himachal Pradesh",1,2005,Male,"1 Less than 2 years",0,9,7,2,18
+"Himachal Pradesh",1,2005,Male,"6 months less than 1 Yr.",0,8,5,0,13
+"Himachal Pradesh",1,2005,Male,"3 - 6 months",0,4,2,0,6
+"Himachal Pradesh",1,2005,Male,"Less than 3 months",0,1,1,0,2
+"Himachal Pradesh",1,2006,Male,"Capital Punishment",0,0,0,0,0
+"Himachal Pradesh",1,2006,Male,"Life Imprisonment",0,88,153,41,282
+"Himachal Pradesh",1,2006,Male,"10-13 Plus years",0,120,142,31,293
+"Himachal Pradesh",1,2006,Male,"7-9 Plus years",0,32,11,0,43
+"Himachal Pradesh",1,2006,Male,"5-6 Plus years",0,28,12,6,46
+"Himachal Pradesh",1,2006,Male,"2-4 Plus years",0,20,12,2,34
+"Himachal Pradesh",1,2006,Male,"1 Less than 2 years",0,16,10,0,26
+"Himachal Pradesh",1,2006,Male,"6 months less than 1 Yr.",0,4,3,0,7
+"Himachal Pradesh",1,2006,Male,"3 - 6 months",0,0,6,0,6
+"Himachal Pradesh",1,2006,Male,"Less than 3 months",0,0,3,0,3
+"Himachal Pradesh",1,2007,Male,"Capital Punishment",0,0,0,0,0
+"Himachal Pradesh",1,2007,Male,"Life Imprisonment",0,101,157,49,307
+"Himachal Pradesh",1,2007,Male,"10-13 Plus years",0,109,93,24,226
+"Himachal Pradesh",1,2007,Male,"7-9 Plus years",0,43,37,10,90
+"Himachal Pradesh",1,2007,Male,"5-6 Plus years",0,22,49,6,77
+"Himachal Pradesh",1,2007,Male,"2-4 Plus years",0,18,57,9,84
+"Himachal Pradesh",1,2007,Male,"1 Less than 2 years",0,9,9,2,20
+"Himachal Pradesh",1,2007,Male,"6 months less than 1 Yr.",0,8,9,1,18
+"Himachal Pradesh",1,2007,Male,"3 - 6 months",0,5,6,0,11
+"Himachal Pradesh",1,2007,Male,"Less than 3 months",0,2,3,0,5
+"Himachal Pradesh",1,2008,Male,"Capital Punishment",0,0,0,0,0
+"Himachal Pradesh",1,2008,Male,"Life Imprisonment",0,115,195,46,356
+"Himachal Pradesh",1,2008,Male,"10-13 Plus years",0,114,110,60,284
+"Himachal Pradesh",1,2008,Male,"7-9 Plus years",0,22,21,4,47
+"Himachal Pradesh",1,2008,Male,"5-6 Plus years",0,36,32,3,71
+"Himachal Pradesh",1,2008,Male,"2-4 Plus years",0,22,20,11,53
+"Himachal Pradesh",1,2008,Male,"1 Less than 2 years",0,9,18,0,27
+"Himachal Pradesh",1,2008,Male,"6 months less than 1 Yr.",0,5,4,0,9
+"Himachal Pradesh",1,2008,Male,"3 - 6 months",0,1,3,1,5
+"Himachal Pradesh",1,2008,Male,"Less than 3 months",0,1,5,0,6
+"Himachal Pradesh",1,2009,Male,"Capital Punishment",0,0,0,0,0
+"Himachal Pradesh",1,2009,Male,"Life Imprisonment",0,80,195,49,324
+"Himachal Pradesh",1,2009,Male,"10-13 Plus years",0,77,112,43,232
+"Himachal Pradesh",1,2009,Male,"7-9 Plus years",0,34,48,15,97
+"Himachal Pradesh",1,2009,Male,"5-6 Plus years",0,15,43,7,65
+"Himachal Pradesh",1,2009,Male,"2-4 Plus years",0,21,21,8,50
+"Himachal Pradesh",1,2009,Male,"1 Less than 2 years",0,5,10,2,17
+"Himachal Pradesh",1,2009,Male,"6 months less than 1 Yr.",0,7,1,1,9
+"Himachal Pradesh",1,2009,Male,"3 - 6 months",0,2,6,1,9
+"Himachal Pradesh",1,2009,Male,"Less than 3 months",0,0,4,0,4
+"Himachal Pradesh",1,2010,Male,"Capital Punishment",0,0,0,0,0
+"Himachal Pradesh",1,2010,Male,"Life Imprisonment",0,94,192,74,360
+"Himachal Pradesh",1,2010,Male,"10-13 Plus years",0,95,117,24,236
+"Himachal Pradesh",1,2010,Male,"7-9 Plus years",0,62,37,8,107
+"Himachal Pradesh",1,2010,Male,"5-6 Plus years",0,34,47,6,87
+"Himachal Pradesh",1,2010,Male,"2-4 Plus years",0,30,33,8,71
+"Himachal Pradesh",1,2010,Male,"1 Less than 2 years",0,11,12,1,24
+"Himachal Pradesh",1,2010,Male,"6 months less than 1 Yr.",0,10,12,4,26
+"Himachal Pradesh",1,2010,Male,"3 - 6 months",0,4,12,0,16
+"Himachal Pradesh",1,2010,Male,"Less than 3 months",0,3,5,0,8
+"Himachal Pradesh",1,2011,Male,"Capital Punishment",0,0,0,0,0
+"Himachal Pradesh",1,2011,Male,"Life Imprisonment",0,76,231,55,362
+"Himachal Pradesh",1,2011,Male,"10-13 Plus years",0,83,111,22,216
+"Himachal Pradesh",1,2011,Male,"7-9 Plus years",0,52,43,19,114
+"Himachal Pradesh",1,2011,Male,"5-6 Plus years",0,23,35,12,70
+"Himachal Pradesh",1,2011,Male,"2-4 Plus years",0,34,48,14,96
+"Himachal Pradesh",1,2011,Male,"1 Less than 2 years",0,3,8,13,24
+"Himachal Pradesh",1,2011,Male,"6 months less than 1 Yr.",0,4,7,5,16
+"Himachal Pradesh",1,2011,Male,"3 - 6 months",0,3,7,1,11
+"Himachal Pradesh",1,2011,Male,"Less than 3 months",0,2,2,0,4
+"Himachal Pradesh",1,2012,Male,"Capital Punishment",0,0,0,0,0
+"Himachal Pradesh",1,2012,Male,"Life Imprisonment",0,83,216,51,350
+"Himachal Pradesh",1,2012,Male,"10-13 Plus years",0,86,140,21,247
+"Himachal Pradesh",1,2012,Male,"7-9 Plus years",0,32,50,9,91
+"Himachal Pradesh",1,2012,Male,"5-6 Plus years",0,28,33,6,67
+"Himachal Pradesh",1,2012,Male,"2-4 Plus years",0,35,55,21,111
+"Himachal Pradesh",1,2012,Male,"1 Less than 2 years",0,5,9,1,15
+"Himachal Pradesh",1,2012,Male,"6 months less than 1 Yr.",0,6,10,4,20
+"Himachal Pradesh",1,2012,Male,"3 - 6 months",0,6,4,0,10
+"Himachal Pradesh",1,2012,Male,"Less than 3 months",0,0,5,0,5
